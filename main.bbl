@@ -1,0 +1,107 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{none/global//global/global}
+  \entry{Cooper2009}{manual}{}
+    \name{author}{1}{}{%
+      {{hash=CM}{%
+         family={Cooper},
+         familyi={C\bibinitperiod},
+         given={Melanie},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Clemson University}%
+    }
+    \strng{namehash}{CM1}
+    \strng{fullhash}{CM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{4th}
+    \field{title}{Cooperative Chemistry Lab Manual}
+    \field{year}{2009}
+  \endentry
+
+  \entry{Lozano2010}{manual}{}
+    \name{author}{3}{}{%
+      {{hash=LULA}{%
+         family={Lozano\bibnamedelima Urbina},
+         familyi={L\bibinitperiod\bibinitdelim U\bibinitperiod},
+         given={Luz\bibnamedelima Amparo},
+         giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod},
+      }}%
+      {{hash=RBAR}{%
+         family={Romero\bibnamedelima Bohorquez},
+         familyi={R\bibinitperiod\bibinitdelim B\bibinitperiod},
+         given={Arnold\bibnamedelima Rafael},
+         giveni={A\bibinitperiod\bibinitdelim R\bibinitperiod},
+      }}%
+      {{hash=UGJM}{%
+         family={Urbina\bibnamedelima Gonz{\'a}lez},
+         familyi={U\bibinitperiod\bibinitdelim G\bibinitperiod},
+         given={Juan\bibnamedelima Manuel},
+         giveni={J\bibinitperiod\bibinitdelim M\bibinitperiod},
+      }}%
+    }
+    \list{organization}{1}{%
+      {Universidad Industrial de Santander}%
+    }
+    \strng{namehash}{LULA+1}
+    \strng{fullhash}{LULARBARUGJM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{edition}{1}
+    \field{title}{Manual de pr{\'a}cticas de laboratorio de qu{\'\i}mica
+  org{\'a}nica I}
+    \field{year}{2010}
+  \endentry
+
+  \entry{young:1902}{article}{}
+    \name{author}{1}{}{%
+      {{hash=YS}{%
+         family={Young},
+         familyi={Y\bibinitperiod},
+         given={Sydney},
+         giveni={S\bibinitperiod},
+      }}%
+    }
+    \list{publisher}{1}{%
+      {The Royal Society of Chemistry}%
+    }
+    \strng{namehash}{YS1}
+    \strng{fullhash}{YS1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \verb{doi}
+    \verb 10.1039/CT9028100777
+    \endverb
+    \field{isbn}{0368-1645}
+    \field{number}{0}
+    \field{pages}{777\bibrangedash 783}
+    \field{title}{LXXVIII.-Correction of the boiling points of liquids from
+  observed to normal pressure}
+    \verb{url}
+    \verb http://dx.doi.org/10.1039/CT9028100777
+    \endverb
+    \field{volume}{81}
+    \field{journaltitle}{J. Chem. Soc., Trans.}
+    \field{year}{1902}
+  \endentry
+\enddatalist
+\endinput
